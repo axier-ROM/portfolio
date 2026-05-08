@@ -122,7 +122,7 @@ export default function About() {
             }}
           >
             <img
-              src="img-avatar.jpg"
+              src="avatar.jpg"
               alt="axier-ROM avatar"
               style={{
                 width: '100%',

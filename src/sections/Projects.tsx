@@ -19,7 +19,7 @@ const projects: Project[] = [
     tags: ['HTML', 'CSS', 'JavaScript'],
     description:
       'Complete YouTube interface redesign with AI-inspired aesthetics. Features two themes — Astral-UI (Gemini-inspired dark purple space theme) and Copper-UI (Claude-inspired warm copper theme). Lightweight, fast, and tracking-free.',
-    image: 'img-youtube-reskin.jpg',
+    image: 'project-reskin.jpg',
     link: 'https://github.com/axier-ROM/YouTube-Reskin',
     reversed: false,
   },
@@ -28,7 +28,7 @@ const projects: Project[] = [
     tags: ['Python'],
     description:
       'Auto Folder Organizer — a lightweight Python script that monitors a folder and automatically sorts files into categorized subfolders by type. Images, videos, documents, audio, code, archives, and installers — each finds its place. Runs on a schedule, respects system directories.',
-    image: 'img-simple-organizer.jpg',
+    image: 'project-organizer.jpg',
     link: 'https://github.com/axier-ROM/SimpleOrganizer',
     reversed: true,
   },
@@ -37,7 +37,7 @@ const projects: Project[] = [
     tags: ['HTML', 'JavaScript'],
     description:
       'A clean, client-side PNG to PDF converter. Simple web interface — drag, convert, download. No server needed, no data leaves the browser. Built with vanilla HTML and JavaScript.',
-    image: 'img-pdftopngsm.jpg',
+    image: 'project-converter.jpg',
     link: 'https://github.com/axier-ROM/pdftopngsm',
     reversed: false,
   },
